@@ -1,0 +1,6 @@
+nodes:
+    -
+        friendlyName: TKO-harvest-MAX20
+        #host: sample.com
+	maxUnlockedAccounts: 20
+	beneficiaryAddress: hoge

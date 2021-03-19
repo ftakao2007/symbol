@@ -1,0 +1,7 @@
+nodes:
+    -
+        friendlyName: tko-node-01
+        #host: tko.symbol001s.jp
+	maxUnlockedAccounts: 20
+	beneficiaryAddress: TBHQGWBYM2CIIS7KMVDLNXXVQKH3YAYPJXR36TA
+	
