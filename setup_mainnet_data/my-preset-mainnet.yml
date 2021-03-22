@@ -1,6 +1,6 @@
 nodes:
     -
-        friendlyName: TKO-harvest-MAX50
+        friendlyName: FUKUI-harvest-MAX50
         #host: sample.com
         maxUnlockedAccounts: 50
         enabelAutoHarvesting = false
