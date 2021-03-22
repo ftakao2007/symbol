@@ -1,6 +1,7 @@
 nodes:
     -
-        friendlyName: TKO-harvest-MAX20
+        friendlyName: TKO-harvest-MAX50
         #host: sample.com
-	maxUnlockedAccounts: 20
-	beneficiaryAddress: hoge
+        maxUnlockedAccounts: 50
+        enabelAutoHarvesting = false
+        beneficiaryAddress: hoge
